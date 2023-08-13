@@ -9,7 +9,6 @@ public class Main {
         boolean devam = true;
         Scanner input = new Scanner(System.in);
 
-        System.out.println(sayi);
         System.out.println("0-100 arası bir sayı arıyorsunuz");
 
         do {
