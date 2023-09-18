@@ -14,6 +14,7 @@ Burada Java dilindeki ilerlememi raporlayacağım.
 ## Hafta 1
 - Access Modifiers (Erişim Belirleyiciler) ve Sınıf/Nesne Değişkenleri ve Metotları, Nesne Yönelimli Programlamanın 4 Temel İlkesi ve Interface eğitimlerini tamamladım ve OOP bilgimin pekişmesi için [MaceraOyunu](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/01.Java_102_MaceraOyunu) projesini yazdım.
 ## Hafta 2
-- Nested Sınıflar, Generic Yapılar eğitimini aldım ve generic yapısı hakkındaki öğrendiklerimi pekiştirmek için [ListeSınıfı](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/02.Java_102_ListeSinifi) projesini yazadım.
+- Nested Sınıflar, Generic Yapılar, Exception Handling eğitimlerini aldım.
+- Generic yapısı hakkındaki öğrendiklerimi pekiştirmek için [ListeSınıfı](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/02.Java_102_ListeSinifi) projesini yazadım.
 
 
