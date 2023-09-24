@@ -1,13 +1,16 @@
 import java.util.Date;
-
 public class CarInsurance extends Insurance {
-    public CarInsurance(String name, double price, Date startDate, Date endDate) {
+     private int carValue;
+
+    public CarInsurance(String name, double price, Date startDate, Date endDate, int carValue) {
         super(name, price, startDate, endDate);
+        this.carValue = carValue;
     }
 
     @Override
     public double calculate() {
-
-        return 0.0;
+        double basePrice = getPrice();
+        double carValueFactor = carValue / 10000.0;
+        return basePrice + (basePrice * carValueFactor);
     }
 }
