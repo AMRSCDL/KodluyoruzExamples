@@ -16,5 +16,8 @@ Burada Java dilindeki ilerlememi raporlayacağım.
 ## Hafta 2
 - Nested Sınıflar, Generic Yapılar, Exception Handling eğitimlerini aldım.
 - Generic yapısı hakkındaki öğrendiklerimi pekiştirmek için [ListeSınıfı](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/02.Java_102_ListeSinifi) projesini yazadım.
+## Hafta 3
+- Collection ve Map Interface eğitimlerini aldım.
+- Şimdiye kadar ki öğrenimlerimi pekiştirmek adına [Kitap Sıralayıcı](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/03.Java_102_KitapSiralayici), [Fikstür Oluşturucu](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/04.Java_102_FiksturOlusturucu), [Patika Store](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/05.Java_102_PatikaStore), [Sigorta Yönetim Sistemi](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/06.Java_102_SigortaYonetimSistemi) projelerini yazdım. 
 
 
