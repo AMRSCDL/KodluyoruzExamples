@@ -19,5 +19,7 @@ Burada Java dilindeki ilerlememi raporlayacağım.
 ## Hafta 3
 - Collection ve Map Interface eğitimlerini aldım.
 - Şimdiye kadar ki öğrenimlerimi pekiştirmek adına [Kitap Sıralayıcı](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/03.Java_102_KitapSiralayici), [Fikstür Oluşturucu](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/04.Java_102_FiksturOlusturucu), [Patika Store](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/05.Java_102_PatikaStore), [Sigorta Yönetim Sistemi](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/06.Java_102_SigortaYonetimSistemi) projelerini yazdım. 
-
+## Hafta 4
+- Input/ Output İşlemleri, Veritabanı İşlemleri (JDBC) ve MultiThreads ve Concurrency eğitimlerini aldım.
+- Öğrenimlerimi pekiştirmek adına JDBC kısmında localde mySQL ile çalıştım, Threads mantığını kavramak için ise [Threadlerin Yarışı](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102/07.Java_102_ThreadlerinYarisi) isminde bir proje yazdım.
 
