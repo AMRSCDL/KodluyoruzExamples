@@ -1,4 +1,7 @@
-## Sigorta Yönetim Sistemi (Patika Ödev) (Devam ediyor)
+## Sigorta Yönetim Sistemi (Patika Ödev)
+
+- Projemin [main](https://github.com/AMRSCDL/KodluyoruzExamples/blob/main/Java-102/06.Java_102_SigortaYonetimSistemi/src/Main.java) dosyasında birisi kurumssal birisi bireysel sigorta kullanıcısı olmak üzere 2 tane kullanıcı oluşturdum. Bu hesapların giriş bilgilerini girerek hesap bilgilerine ulaşmışız gibi kurguladım.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sigorta firması için bir yazılım yaptığınızı düşünün. Sigorta firmasının "Bireysel" (Individual) ve "Kurumsal" (Enterprise) olmak üzere iki tip müşteri profili bulunmaktadır. Müşteri profili için "Account" isminde soyut sınıf (abstract class) tasarlayınız. Account sınıfı müşterinin sisteme giriş sonrasında tüm bilgilerinin tutulduğu hesap bilgisidir. "Account" sınıfı içinde "User" tipinde bir nesne referansı bulunur. (Aggeration ilişkisi olarak)
 
 "User" sınıfı müşterinin kişi bilgilerini ifade eder. "User" sınıfında müşterinin
@@ -44,6 +47,8 @@ Kullanıcının sigorta poliçesi ekleyebilmesi için soyut (abstract) bir fonks
 "Individual" ve "Enterprise" sınıfları "Account" sınıfından kalıtım alacaktır.
 
 AccountManager isminde bir sınıf tasarlayınız. Bu sınıf içinde TreeSet tipinde bir veri listesi tutsun. Oluşturduğunuz bireysel ve kurumsal hesapları bu listede saklayınız. bu sınıf içinde login isminde bir fonksiyon tanımlayınız. Bu fonksiyon dışarıdan verilen email ve şifre bilgisini alıp Account listesi üzerinde dolaşıp uygun bir giriş işlemi bulursa Account nesnesini çağrıldığı yere dönecektir. Bu fonksiyon Account nesnesi üzerindeki "login" olma fonksiyonunu çağıracaktır. Unutmayın bu fonksiyon "InvalidAuthenticationException" tipinde hata fırlatabiliyordu. Bu nedenle burada try-catch mekanizması kurmayı unutmayınız.
+
+
 
 "Account" sınıfından nesneleri TreeSet içinde tutacağımız için "Comparable" interface'den kalıtım almış olmasına dikkat edin. Ayrıca, "Account" sınıfının "hashCode" ve "equals" fonksiyonlarını doldurmayı unutmayın.
 
