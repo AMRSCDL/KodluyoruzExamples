@@ -9,7 +9,7 @@
 ### Öğrenci Ekranı
 ![SS4](https://github.com/AMRSCDL/KodluyoruzExamples/blob/main/Java-102/09.Java_102_PatikaKlon/ss/student.png)
 ### Hakkında
-Projeyi yazarken localde oluşturduğum, mySQL veritabanını kullandım.
+Projeyi yazarken localde oluşturduğum, mySQL veritabanını kullandım. IDE olarak IntellıJ IDEA'yı tercih ettim.
 Ödev açıklama ↓↓↓
 # Eğitmen Paneli
 - Eğitmenler sisteme giriş yaptıklarında, görevlerini yapabilecekleri bir ekran tasarlanmalı.
